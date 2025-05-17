@@ -8,3 +8,7 @@ A growing collection of custom asset packs for flipper0
 ![Tiger I Preview](assets/tiger1.gif)
 
 Panzer VI (Tiger I)
+
+---
+
+![Tiger I Preview](assets/.gif)
