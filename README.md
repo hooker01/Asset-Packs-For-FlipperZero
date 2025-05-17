@@ -11,7 +11,8 @@ Panzer VI (Tiger I)
 
 ---
 
-![Tiger I Preview](assets/1337 Skulls.gif)
+![1337 Skulls Preview](assets/1337 Skulls.gif)
+
 
 1337 Skulls
 
